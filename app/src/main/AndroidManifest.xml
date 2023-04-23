@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Maps"></activity>
-        <meta-data android:name="com.kakao.sdk.AppKey" android:value="30de2e84a24d38347888a243a163f19a" />
+        <meta-data android:name="com.kakao.sdk.AppKey" android:value="your AppKey" />
     </application>
 
 </manifest>
